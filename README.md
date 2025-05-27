@@ -14,9 +14,13 @@ English:
 First edit the 'Telegram Downloader By AniKofKatan.py' File. ( Notpad/Vscode )
 
 Search for :
+
 api_id = int(os.getenv('TELEGRAM_API_ID', '123123123'))
+
 api_hash = os.getenv('TELEGRAM_API_HASH', '123123123')
+
 -Edit the '123123123' to your actual Telegram API ID and HASH.
+
 You can find them here : https://my.telegram.org
 
 And then search for :
