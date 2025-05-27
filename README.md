@@ -1,6 +1,14 @@
 # TelegramDownloader
 Downloads from Telegram channels to PC. -Python -Telethon
 
+
+Requirements:
+telethon
+python-dotenv
+
+
+
+
 English:
 
 First edit the 'Telegram Downloader By AniKofKatan.py' File. ( Notpad/Vscode )
@@ -29,6 +37,9 @@ A session file will be created once the login is successful with your credential
 
 
 עברית:
+
+חייב להוריד telethon וpython-dotenv
+
 
 תחילה ערוך את הקובץ Telegram Downloader By AniKofKatan.py (באמצעות Notepad או VSCode).
 חפש את השורות:
