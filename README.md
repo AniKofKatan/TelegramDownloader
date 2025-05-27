@@ -12,6 +12,7 @@ python-dotenv
 English:
 
 First edit the 'Telegram Downloader By AniKofKatan.py' File. ( Notpad/Vscode )
+
 Search for :
 api_id = int(os.getenv('TELEGRAM_API_ID', '123123123'))
 api_hash = os.getenv('TELEGRAM_API_HASH', '123123123')
